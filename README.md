@@ -19,6 +19,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [**Notes**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/)
+    * [**Introduction to Circuits & Signals**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/Section1.pdf)
+
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
 * [**Exams**](#Exams)
