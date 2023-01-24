@@ -22,6 +22,8 @@
 * [**Notes**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/)
     * [**Introduction to Computing Fundamentals**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/Section1.pdf)
     * [**Introduction to Python**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/Section2.pdf)
+* [**Homework**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/)
+    * [**Homework One**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
