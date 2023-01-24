@@ -24,6 +24,12 @@
     * [**Introduction to Python**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Notes/Section2.pdf)
 * [**Homework**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/)
     * [**Homework One**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/)
+        * [**Documentation**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Brodskiy.pdf)
+        * [**Problem One**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Prob1Brodskiy.py)
+        * [**Problem Two**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Prob2Brodskiy.py)
+        * [**Problem Three**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Prob3Brodskiy.py)
+        * [**Problem Four**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Prob4Brodskiy.py)
+        * [**Problem Five**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%201/HW1Prob5Brodskiy.py)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
