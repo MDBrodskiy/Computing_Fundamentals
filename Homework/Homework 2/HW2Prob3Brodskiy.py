@@ -20,7 +20,3 @@
 def is_palindrome(word):
     return word.lower().replace(" ","") == word.lower().replace(" ","")[::-1]
 
-print(is_palindrome("race car"))
-print(is_palindrome("test"))
-print(is_palindrome("Aya"))
-print(is_palindrome("Papaya"))
