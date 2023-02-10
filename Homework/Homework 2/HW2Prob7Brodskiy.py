@@ -24,6 +24,7 @@ items = [("38", "Electric sander", 11, 24.09), ("42", "Power saw", 18, 89.82), (
 
 # Part a
 items_sorted = sorted(items, key=operator.itemgetter(1))
+print(items_sorted)
 
 # Part b
 desc_and_quant = []
@@ -31,6 +32,7 @@ for i in items:
     desc_and_quant.append((i[1], i[2]))
 
 desc_and_quant = sorted(desc_and_quant, key=operator.itemgetter(1))
+print(desc_and_quant)
 
 # Part c
 desc_and_val = []
@@ -38,14 +40,15 @@ for i in items:
     desc_and_val.append((i[1], i[2] * i[3]))
 
 desc_and_val = sorted(desc_and_val, key=operator.itemgetter(1))[::-1]
+print(desc_and_val)
 
 # Part d
-desc_and_val_short = []
 for i in desc_and_val:
-    if i[1] <= 1000 or i[1] >= 200:
-        desc_and_val_short.append(i)
+    if i[1] > 1000 or i[1] < 200:
+        desc_and_val.pop(desc_and_val.index(i))
+print(desc_and_val)
 
 # Part e
 sum = 0
-for i in desc_and_val_short:
+for i in desc_and_val:
     sum += i[1]
