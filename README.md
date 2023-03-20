@@ -39,6 +39,10 @@
         * [**Problem Four**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%202/HW2Prob4Brodskiy.py)
         * [**Problem Five**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%202/HW2Prob5Brodskiy.py)
         * [**Problem Seven**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%202/HW2Prob7Brodskiy.py)
+    * [**Homework Three**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%203/)
+        * [**Documentation**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%203/HW3Brodskiy.pdf)
+        * [**Problem One**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%203/HW3Prob1Brodskiy.py)
+        * [**Problem Two**](https://github.com/MDBrodskiy/Computing_Fundamentals/tree/master/Homework/Homework%203/HW3Prob2Brodskiy.py)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
